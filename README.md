@@ -8,6 +8,7 @@ This repository demonstrates text classification using a multi-nomial Naive Baye
       Removing special .
       Removing stop words.
 2) Train and evaluate a Naive Bayes model from the scikit-learn machine learning library to predict the sentiment ('positive' or 'negative') for a movie reviews dataset.
+3) Designing of self prepared Naive Bayes classifier
 
 # usage
 1. Open the provided Jupyter Notebook Text_classification_using_naive bayes.ipynb in Google Colab.
